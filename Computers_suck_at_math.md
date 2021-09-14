@@ -1,4 +1,4 @@
-# You think u suck at math don't worry you are not alone, no its not me I meant computers they really suck at math wondering why?  
+# You think you suck at math don't worry you are not alone, no its not me I meant computers they really suck at math wondering why?  
 
 ## lets see :
 
@@ -19,6 +19,8 @@ Now don't think this is a python problem well lets see `Javascript` (Node js she
 ```
 
 ###### Belive me now ?
+
+well this behaviour is shown by almost all other languages out there
 
 Now is this explanable ? Well yeah it is.
 
