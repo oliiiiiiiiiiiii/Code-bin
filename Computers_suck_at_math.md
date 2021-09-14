@@ -20,7 +20,7 @@ Now don't think this is a python problem well lets see `Javascript` (Node js she
 
 ###### Belive me now ?
 
-Now is this explanable well yeah it is : 
+Now is this explanable ? Well yeah it is.
 
 I really could explain it here but don't feel like doing it here
 
