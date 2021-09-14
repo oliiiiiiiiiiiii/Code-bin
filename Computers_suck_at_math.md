@@ -2,7 +2,7 @@
 
 ## lets see :
 
-### python :
+### Python Shell:
 
 ```py
 >>> 1 + 1
@@ -11,3 +11,11 @@
 >>> 0.1 + 0.2
 0.30000000000000004
 ```
+Now don't think this is a python problem well lets see `Javascript` (Node js command prompt)
+
+```js
+> 0.1+0.2
+0.30000000000000004
+```
+
+###### Belive me now ?
