@@ -8,11 +8,15 @@ Languages:
     <td>Python</td>
     <td>Javascript</td>
     <td>Typescript</td>
-    <td>Javat</td>
+    <td>Java</td>
     <td>C++</td>
     <td>C</td>
     <td>C#</td>
     <td>F#</td>
-  </tr>  
+  </tr> 
+  <tr>
+    <td>Bash</td>
+    <td>Basic</td>
+  </tr> 
 </table>
     
