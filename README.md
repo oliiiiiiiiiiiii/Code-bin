@@ -22,6 +22,8 @@
     <th>Basic</th>
     <th>HTML</th>
     <th>CSS</th>
+    <th>Fortran</th>
+    <th>Coffee</th>
   </tr> 
 </table>
 
