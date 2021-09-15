@@ -20,6 +20,8 @@
   <tr>
     <th>Bash</th>
     <th>Basic</th>
+    <th>HTML</th>
+    <th>CSS</th>
   </tr> 
 </table>
 
