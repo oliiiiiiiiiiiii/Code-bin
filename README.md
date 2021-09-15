@@ -3,7 +3,7 @@
 ## Hello, here we welcome all types of coders to collaborate .
 
 ### Help make us make this repo a code bin for all people.
-
+<br>
  <table>
   <tr>
     <th colspan=8>Languages</th>
@@ -22,5 +22,5 @@
     <th>Basic</th>
   </tr> 
 </table>
-    
+<br>
 #### Thankyou
