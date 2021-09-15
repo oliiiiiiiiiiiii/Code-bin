@@ -5,14 +5,14 @@ Languages:
 
 <table>
   <tr>
-    <td>Python</td>
-    <td>Javascript</td>
-    <td>Typescript</td>
-    <td>Java</td>
-    <td>C++</td>
-    <td>C</td>
-    <td>C#</td>
-    <td>F#</td>
+    <th>Python</th>
+    <th>Javascript</th>
+    <th>Typescript</th>
+    <th>Java</th>
+    <th>C++</th>
+    <th>C</th>
+    <th>C#</th>
+    <th>F#</th>
   </tr> 
   <tr>
     <th>Bash</th>
