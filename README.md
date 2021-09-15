@@ -7,6 +7,12 @@ Languages:
   <tr>
     <td>Python</td>
     <td>Javascript</td>
+    <td>Typescript</td>
+    <td>Javat</td>
+    <td>C++</td>
+    <td>C</td>
+    <td>C#</td>
+    <td>F#</td>
   <tr>  
 <table>
     
