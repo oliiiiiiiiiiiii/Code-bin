@@ -1,4 +1,4 @@
-# You think you suck at math don't worry you are not alone, no its not me I meant computers they really suck at math wondering why?  
+# You think you suck at math don't worry you are not alone, no its not me I meant computers they really suck at math, wondering why?  
 
 ## lets see :
 
