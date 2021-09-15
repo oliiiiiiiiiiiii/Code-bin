@@ -1,6 +1,6 @@
-### This file shows some weird behaviours shown by languages.
+# Python
 
-Auto Concatenation of strings in python when they are in a list with no commas `,`
+### Auto Concatenation of strings in python when they are in a list with no commas `,`
 
 ```py
 >>> a = ['hello''world']
