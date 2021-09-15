@@ -13,6 +13,6 @@ Languages:
     <td>C</td>
     <td>C#</td>
     <td>F#</td>
-  <tr>  
-<table>
+  </tr>  
+</table>
     
