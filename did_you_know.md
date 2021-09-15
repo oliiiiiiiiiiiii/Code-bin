@@ -7,4 +7,3 @@ Auto Concatenation of strings in python when they are in a list with no commas `
 >>> a[0]
 'helloworld'
 ```
-
