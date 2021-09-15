@@ -15,8 +15,8 @@ Languages:
     <td>F#</td>
   </tr> 
   <tr>
-    <td>Bash</td>
-    <td>Basic</td>
+    <th>Bash</th>
+    <th>Basic</th>
   </tr> 
 </table>
     
