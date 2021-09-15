@@ -24,6 +24,15 @@
     <th>Fortran</th>
     <th>Coffee</th>
     <th>GD script</th>
+    <th>Swift</th>
+  </tr>
+   <tr>
+    <th>Ruby</th>
+    <th>Rust</th>
+    <th>R</th>
+    <th>Assembly</th>
+    <th>Brainfuck</th>
+    <th>Perl</th>
   </tr> 
 </table>
 
