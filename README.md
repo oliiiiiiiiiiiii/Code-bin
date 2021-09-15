@@ -1,8 +1,7 @@
 # Code-bin
 
-## Hello, here we welcome all types of coders to collaborate .
+## Hello, here we welcome all types of coders to collaborate.
 
-### Help make us make this repo a code bin for all people.
 <br>
  <table>
   <tr>
