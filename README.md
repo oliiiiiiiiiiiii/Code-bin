@@ -1,5 +1,7 @@
 # Code-bin
-Just created this repo to get and store code that I and others write, feel free to create a PR. I will merge it if I find it ok.
+
+## Hello, here we welcome all types of coders to collaborate (Begginer/Intermediate/Pro/Expert/Master).
+### Help make us make this repo a code bin for all people.
 
  <table>
   <tr>
@@ -20,3 +22,4 @@ Just created this repo to get and store code that I and others write, feel free 
   </tr> 
 </table>
     
+#### Thankyou
