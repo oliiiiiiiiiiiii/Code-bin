@@ -27,12 +27,14 @@
     <th>Swift</th>
   </tr>
    <tr>
+    <th></th>
     <th>Ruby</th>
     <th>Rust</th>
     <th>R</th>
     <th>Assembly</th>
     <th>Brainfuck</th>
     <th>Perl</th>
+    <th></th>
   </tr> 
 </table>
 
