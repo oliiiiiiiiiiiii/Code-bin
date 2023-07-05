@@ -1,6 +1,6 @@
 # Code-bin
 
-## Hello, here we welcome all types of coders to collaborate.
+# Hello, here we welcome all types of coders to collaborate.
 
 <br>
  <table>
